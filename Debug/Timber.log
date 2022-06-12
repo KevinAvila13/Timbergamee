@@ -1,0 +1,13 @@
+﻿  Timber.cpp
+C:\Users\noegi\Documents\Visual Studio 2022\source\repos\Timber\Timber\Timber.cpp(256,34): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\noegi\Documents\Visual Studio 2022\source\repos\Timber\Timber\Timber.cpp(286,35): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\noegi\Documents\Visual Studio 2022\source\repos\Timber\Timber\Timber.cpp(341,32): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\noegi\Documents\Visual Studio 2022\source\repos\Timber\Timber\Timber.cpp(345,19): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\noegi\Documents\Visual Studio 2022\source\repos\Timber\Timber\Timber.cpp(366,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\noegi\Documents\Visual Studio 2022\source\repos\Timber\Timber\Timber.cpp(370,19): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\noegi\Documents\Visual Studio 2022\source\repos\Timber\Timber\Timber.cpp(390,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\noegi\Documents\Visual Studio 2022\source\repos\Timber\Timber\Timber.cpp(394,19): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\noegi\Documents\Visual Studio 2022\source\repos\Timber\Timber\Timber.cpp(414,28): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\noegi\Documents\Visual Studio 2022\source\repos\Timber\Timber\Timber.cpp(418,19): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\noegi\Documents\Visual Studio 2022\source\repos\Timber\Timber\Timber.cpp(441,19): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Timber.vcxproj -> C:\Users\noegi\Documents\Visual Studio 2022\source\repos\Timber\Debug\Timber.exe
